@@ -1,7 +1,8 @@
 #include <stdio.h>
-/*
- * main - returns 0
- * comment
+/**
+ * main - main function  of my project
+ *
+ * Return: return 0
  */
 int main(void)
 {
