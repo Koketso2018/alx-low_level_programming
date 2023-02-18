@@ -13,8 +13,7 @@ int main(void)
 	{
 		if (i == 9)
 		{
-			putchar(i + '0');
-			putchar(' ');
+			putchar(i + '0'+' ');
 		}
 		else
 		{
