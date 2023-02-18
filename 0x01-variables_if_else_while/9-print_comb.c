@@ -13,7 +13,7 @@ int main(void)
 	{
 		if (i == 9)
 		{
-			putchar(i + '0'+' ');
+			putchar(i + '0'+'\n');
 		}
 		else
 		{
@@ -22,6 +22,6 @@ int main(void)
 			putchar(' ');
 		}
 	}
-	putchar('\n');
+	
 	return (0);
 }
